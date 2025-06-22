@@ -1,5 +1,5 @@
 import { FaGithub, FaLinkedin } from "react-icons/fa";
-import Avatar from "./assets/Software.png";
+import Avatar from "../assets/Software.png";
 
 const Body = () => {
   return (
